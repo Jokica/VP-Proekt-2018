@@ -1,0 +1,15 @@
+c:\users\user\source\repos\burgerKing\burgerKing\bin\Debug\burgerKing.exe.config
+c:\users\user\source\repos\burgerKing\burgerKing\bin\Debug\burgerKing.exe
+c:\users\user\source\repos\burgerKing\burgerKing\bin\Debug\burgerKing.pdb
+c:\users\user\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.Form1.resources
+c:\users\user\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.Properties.Resources.resources
+c:\users\user\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.csproj.GenerateResource.Cache
+c:\users\user\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.exe
+c:\users\user\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.pdb
+C:\Users\USER\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.UserControl1.resources
+C:\Users\USER\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.LoginScreeen.resources
+C:\Users\USER\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.UserControl2.resources
+C:\Users\USER\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.Helper3.resources
+C:\Users\USER\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.OrderMenu.resources
+C:\Users\USER\source\repos\burgerKing\burgerKing\obj\Debug\burgerKing.csprojAssemblyReference.cache
