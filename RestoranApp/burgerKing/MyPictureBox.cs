@@ -15,6 +15,7 @@ namespace burgerKing
         public int Index { get => index; set => index = value; }
         public int ImageIndex { get => imageIndex; set => imageIndex = value; }
 
+
         public bool isMatch()
         {
             return (index == imageIndex);
