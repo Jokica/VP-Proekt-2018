@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\RestorantApp\burgerKing\bin\Debug\burgerKing.exe.config
+C:\Users\USER\source\repos\RestorantApp\burgerKing\bin\Debug\burgerKing.exe
+C:\Users\USER\source\repos\RestorantApp\burgerKing\bin\Debug\burgerKing.pdb
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\RestorantApp.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.DrinksPromo.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.FoodPromo.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.Form1.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.LoginScreeen.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.OrderMenu.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.Properties.Resources.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.PuzzleGame.resources
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\RestorantApp.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\RestorantApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.exe
+C:\Users\USER\source\repos\RestorantApp\burgerKing\obj\Debug\burgerKing.pdb
